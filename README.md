@@ -130,7 +130,7 @@ The **Pharmaceutical Drug Design Simulator** is a sophisticated web-based platfo
 ### **For Any Support**
 For any technical queries or support, feel free to contact me at:
 
-- **LinkedIn**: [Your LinkedIn Profile](#)
+- **LinkedIn**: [https://www.linkedin.com/in/ujjval-pateliya-qwer2005](#)
 - **Email**: ujjvalpateliya@gmail.com
 
 ---
