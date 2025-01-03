@@ -1,4 +1,11 @@
 
+
+<p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=600&height=60&lines=Coming+Soon...;Exciting+Things+Ahead...;Stay+Tuned!&center=true&size=30">
+    </a>
+</p>
+
 ### **Pharmaceutical Drug Design Simulator**
 
 The **Pharmaceutical Drug Design Simulator** is a sophisticated web-based platform aimed at students, researchers, and faculty in the field of pharmaceutical sciences. The application provides tools for visualizing molecular structures, simulating drug interactions, and supporting educational content.
@@ -128,4 +135,4 @@ For any technical queries or support, feel free to contact me at:
 
 ---
 
-## ** Comming Soon 
+
